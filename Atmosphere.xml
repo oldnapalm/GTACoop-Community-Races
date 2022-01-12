@@ -269,6 +269,20 @@
   <DecorativeProps>
     <SavedProp>
       <Position>
+        <X>-1565.817</X>
+        <Y>908.712</Y>
+        <Z>584.982</Z>
+      </Position>
+      <Rotation>
+        <X>0.0</X>
+        <Y>0.0</Y>
+        <Z>114.199</Z>
+      </Rotation>
+      <Hash>-2138403432</Hash>
+      <Dynamic>false</Dynamic>
+    </SavedProp>
+    <SavedProp>
+      <Position>
         <X>-316.655</X>
         <Y>-929.913</Y>
         <Z>83.705</Z>
@@ -1847,20 +1861,6 @@
         <Z>-65.801</Z>
       </Rotation>
       <Hash>-780495775</Hash>
-      <Dynamic>false</Dynamic>
-    </SavedProp>
-    <SavedProp>
-      <Position>
-        <X>-1565.817</X>
-        <Y>908.712</Y>
-        <Z>584.982</Z>
-      </Position>
-      <Rotation>
-        <X>0.0</X>
-        <Y>0.0</Y>
-        <Z>114.199</Z>
-      </Rotation>
-      <Hash>-2138403432</Hash>
       <Dynamic>false</Dynamic>
     </SavedProp>
     <SavedProp>
